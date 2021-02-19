@@ -11,6 +11,8 @@ namespace WebApplication3.Controllers
         public ActionResult Index()
         {
             //1啊
+              
+
             return View();
         }
 
